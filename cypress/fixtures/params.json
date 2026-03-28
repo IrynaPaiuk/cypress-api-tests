@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "position": "QA",
+            "company": "mycompanyira",
+            "location": "Toronto",
+            "seniority": "junior",
+            "link": "www.linkedin.com",
+            "description": "some text",
+            "time": "two hours ago",
+            "salary": "100k",
+            "date": "2020-06-06T12:00:00"
+        },
+        {
+            "position": "Java Developer",
+            "company": "mycompanyira",
+            "location": "Toronto",
+            "seniority": "senior",
+            "link": "www.linkedin.com",
+            "description": "some text",
+            "time": "two hours ago",
+            "salary": "100k",
+            "date": "2020-06-06T12:00:00"
+        }
+    ]
+}
